@@ -1,9 +1,19 @@
-# React TypeScript Starter Pack
+# About Project
 
-To use this template click `Use this template`
+The Phone Catalog project is a responsive web application for browsing and purchasing phones, tablets, and accessories. It includes filters for easier product search, product details pages, and functionality for users to add items to their favorites or shopping cart.
 
-### Available Scripts
+# Technologies Used
 
-`Deploy` - available to deploy your application to gh-pages
+React, TypeScript, HTML5, SCSS
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+# Prerequisites
+
+* node v14.21.3
+
+# Useful Commands
+
+* npm start - run the web server
+
+# DEMO LINK
+
+- [DEMO LINK](https://nastyasid.github.io/phone-catalog/)
