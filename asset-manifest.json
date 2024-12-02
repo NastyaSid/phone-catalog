@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b13a7c98.css",
+    "main.js": "./static/js/main.b39ded45.js",
+    "static/media/banner-tablets.png": "./static/media/banner-tablets.3ab0c9b71cae9e04b094.png",
+    "static/media/banner-accessories.png": "./static/media/banner-accessories.e47d6d6df68a6548e82b.png",
+    "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
+    "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/banner-new-phone.png": "./static/media/banner-new-phone.d7f05d7307ff69e485f3.png",
+    "static/media/banner-new-phone-mob.png": "./static/media/banner-new-phone-mob.2a81b60be4c528e69838.png",
+    "index.html": "./index.html",
+    "main.b13a7c98.css.map": "./static/css/main.b13a7c98.css.map",
+    "main.b39ded45.js.map": "./static/js/main.b39ded45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b13a7c98.css",
+    "static/js/main.b39ded45.js"
+  ]
+}
